@@ -13,7 +13,7 @@ summary: "I created a GitHub repository for a club called ICSpark at UH Manoa ca
 ---
 
 <div class="text-center p-4">
-  <img width="300px" src="../img/calcimageCropped.png" class="img-thumbnail" >
+  <img src="../img/calcimageCropped.png" class="img-thumbnail" style="max-width: 100%; height: auto; object-fit: contain;">
 </div>
 
 This project aimed to help teach middle-high school students about declaring and calling functions and adding parameters for those functions to take on. To accomplish this, I communicated with club leaders about possible lesson ideas and a simple calculator project was the conclusion. I needed to make the lesson digestible and challenging at the same time. To do this I made sure not to include the entire code solutions but rather point out what was missing. This ensured that the students had to recall from previous lessons and engage with the lesson instead of simply copying and pasting code. 
