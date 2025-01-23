@@ -6,9 +6,9 @@ title: "SimpleCalculator"
 date: 2024
 published: true
 labels:
-  - Robotics
-  - Arduino
-  - C++
+  - Javascript
+  - CSS
+  - HTML
 summary: "I created a GitHub repository for a club called ICSpark at UH Manoa called SimpleCalculator. It was a lesson created to help the middle-high school students get familiar with methods and their basic concepts in JavaScript."
 ---
 
