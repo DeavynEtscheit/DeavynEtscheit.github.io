@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/calcimageCroppped.png
 title: "SimpleCalculator"
 date: 2024
 published: true
