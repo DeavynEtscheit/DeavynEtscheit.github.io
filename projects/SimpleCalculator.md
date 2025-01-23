@@ -24,4 +24,4 @@ I was in charge of creating the repository and the entire lesson. The task was a
 
 What I learned from this project was how to navigate and use GitHub, how to communicate in a team environment, and ask for help. The last two I believe are very important tools that I will in my career. I believed I could do the work alone but this project showed me that working in a team gives huge benefits. They gave insight into my lesson description and the flow of the lesson whether it was too fast or slow-paced. My biggest takeaway from this project was realizing the value that a team provides and how much fun it is to be a part of one.
 
-You can learn more at the [Deavyn Etscheit SimpleCalculator](https://github.com/DeavynEtscheit/Simple-Calculator).
+You can view the lesson here at [Deavyn Etscheit SimpleCalculator](https://github.com/DeavynEtscheit/Simple-Calculator).
