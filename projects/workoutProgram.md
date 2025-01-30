@@ -10,7 +10,23 @@ labels:
 summary: "This is a workout program I created for my friend who wanted to get into fitness. This project was fun to work on as I was communicating with him till the program was to his liking and at the same time optimal. Note: I am not certified in any way to give actual advice, this program gained inspiration from my experiences."
 ---
 
-<img class="img-fluid" src="../img/workoutpic.png"> 
+<div class="image-container">
+  <img class="img-fluid" src="../img/workoutpic.png">
+</div>
+
+<style>
+  .image-container {
+    width: 100%;
+    overflow-x: auto;
+    white-space: nowrap;
+  }
+
+  .image-container img {
+    width: auto;
+    height: 100%;
+    max-height: 500px; /* Adjust as needed */
+  }
+</style>
 
 Luckily, I was allowed to help my friend start his fitness journey. He came to me asking for a simple program that would allow him to work out at home with his current equipment. Based on my experience working out at that time and my experience as a tennis assistant coach, I believed I could help him start his fitness journey. I usually create my own programs, programs that are tailored to what I enjoy and believe will help me achieve my goals but having to create a program for another individual challenged my fundamentals of creating programs.
 
