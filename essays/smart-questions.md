@@ -51,4 +51,5 @@ An example of a not-so-smart question I found on Stack Overflow is, "How can I a
 Be patient with yourself before blurting out questions. Take the time to figure out if you are stuck and need help. If you do end up stuck remember to formulate the question in a digestible manner, provide a brief and descriptive context to your issue, and if possible show the code snippet or issue you are facing. Many individuals rush their questions because they want the answer right away, leading them to create confusing questions and receive no replies. Taking time and focus reveals the answer faster than most would think.
 
 Link to the smart question: [smart](https://stackoverflow.com/questions/2003505/how-do-i-delete-a-git-branch-locally-and-remotely/2003515#2003515)
+
 Link to the not-so-smart question: [not-smart](https://meta.stackoverflow.com/questions/429888/how-can-i-answer-a-question-when-i-cant-find-any-answer-button-and-why-can-i)
