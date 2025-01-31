@@ -28,3 +28,5 @@ Web Development was my first career option. It appeared to be a fun and creative
 ## Skills I Would Like to Develop
 
 Along with my studies at my current institution, I have recently ventured into studying Machine Learning and probability. It is quite difficult, to say the least, but proves to be fun. What I hope to bring from my studies is a better understanding of Machine Learning and learning models along with a better understanding of how probability works in Machine Learning. The concepts are my biggest priority in understanding and later the skills to work on learning models in the future. There is the theory and application of Machine Learning and pursuing the theory aspect of the topic is something I am very much looking forward to.
+
+*AI was not used in creating this essay*
