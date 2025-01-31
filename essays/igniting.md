@@ -1,19 +1,22 @@
 ---
 layout: essay
 type: essay
-title: "Igniting the fire"
+title: "What to Type?"
 # All dates must be YYYY-MM-DD format!
-date: 2015-08-26
+date: 2025-01-30
 published: true
 labels:
-  - Software Engineering
-  - Learning
+  - TypeScript
 ---
 
-<img width="100px" class="rounded float-start pe-4" src="../img/igniting/paintbrushes.jpg">
+<img src="../img/thinking-cat-douglas-sacha.jpg">
 
-Ever since I first grasped a paintbrush, I’ve always been eager to learn about design. Design is such a complex concept. For example, when looking at abstract art, its meaning can be completely different for different people. It motivates a person to think thoughtfully and has the potential to submerge them in a sea of imagination. It’s that special relationship between the viewer and the art that makes something as technical as software engineering interesting to me.
+## Thoughts about TypeScript
 
-I never used to think that design and technology went hand in hand.  Thus, learning about software engineering and the role of design has been incredibly interesting to me. Design, implementation, and management are just some of the many things I wish to learn more about. Good art, in a way, makes a person question it. They become joined in the idea of visualization – where captivation meets inspiration.
+I never heard of TypeScript till I took this course and to be honest it proves to be challenging. Getting the concepts down is one thing but the other is figuring out what to type. What I mean by this is the syntax. My thoughts on TypeScript are not positive as the syntax makes it hard to enjoy. It is a superset of JavaScript but when comparing learning curves, TypeScript appears to be a lot steeper in my case. It might be due to the fact I have never dealt with this programming language and we dove straight into it. Though I believe in the next few weeks I will be a lot more confident with the language. I find myself having to look up help for syntaxes while working rather than taking my own time outside of class hours to read up on the language. So, I can't blame TypeScript for anything or give it a rating due to my lack of experience.
 
-I am now starting to take a Software Engineering class. I hope to learn a lot through the course, but I know it will be just the beginning of my journey. By the time I’m done with it, I hope I’ve learned enough to take the next step in my life as a developer. But until then, my fire will keep on burning.
+## The WODs or Whats?
+
+The WODs are super helpful. The past ICS courses I have taken never had such a practice and I wish they did. It has helped me get in touch with the concepts of coding. Most of the time the ICS classes you only get a feel of the concepts and syntax through homework which in most cases is only once a week. These WODs keep me in check and I enjoy that feeling. It is a bit stressful but I believe this feeling is only due to how new of a practice it is for me. My typical week only included 1-2 days of programming due to a coding assignment and I felt like an un-athletic programmer. Now that these WODs are in place I feel a lot more capable and I believe it works out well for me. What I do think might cause issues for others if they are taking a lot of other courses. The amount of credits I am taking this semester seems like the appropriate amount to take this course which is 15 and I think any more can cause issues in terms of balancing time.
+
+*AI was not used in creating this essay*
