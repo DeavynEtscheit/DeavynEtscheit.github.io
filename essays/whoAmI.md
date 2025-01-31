@@ -15,7 +15,7 @@ labels:
 
 ## Why Computer Science?
 
-I am Deavyn Etscheit a student enrolled at the University of Hawaii at Manoa's Computer Science Program. I chose to pursue Computer Science based on the Computer Science courses at took at my high school Mid-Pacific Institute. Another reason I have chosen to pursue this field is due to my belief that it will become a big part shortly. Especially since the release and ongoing development of ChatGPT and other similar ai models heads are starting to turn. I want to be a part of such projects developing products that can bring huge benefits to the world. I use ChatGPT and Claude to help in my studies and they have deepened my understanding of my courses along with my studies. I chose Computer Science for its robustness in the tech industry and its exciting ongoing development.
+I am Deavyn Etscheit a student enrolled at the University of Hawaii at Manoa's Computer Science Program. I chose to pursue Computer Science based on the Computer Science courses at took at my high school Mid-Pacific Institute. Another reason I have chosen to pursue this field is due to my belief that it will become a big part shortly. Especially since the release and ongoing development of ChatGPT and other similar ai models heads are starting to turn. I want to be a part of such projects, developing products that can bring huge benefits to many people. I use ChatGPT and Claude to help in my studies and they have deepened my understanding of the basic concepts of Computer Science. In short, I chose Computer Science for its robustness in the tech industry and its exciting ongoing development.
 
 ## My Interests in Computer Science
 
