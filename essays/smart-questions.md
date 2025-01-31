@@ -1,10 +1,10 @@
 ---
 layout: essay
 type: essay
-title: "Smart Questions, Good Answers"
+title: "Smarter Questions Leads to Better Answers"
 # All dates must be YYYY-MM-DD format!
-date: 2015-09-08
-published: false
+date: 2025-01-30
+published: true
 labels:
   - Questions
   - Answers
@@ -13,13 +13,15 @@ labels:
 
 <img width="300px" class="rounded float-start pe-4" src="../img/smart-questions/rtfm.png">
 
-## Is there such thing as a stupid question?
+## Why Asking the Right Question is Crucial
 
-I’ve had instructors address a whole class and say, “There’s no such thing as a stupid question.” I now know that is in fact not true because I’ve challenged the statement and received the appropriate dumb-stricken, annoyed look. There are definitely stupid questions, and along with that, usually unhelpful answers. Though we all might be guilty of being callous and making people victim to our poorly formed questions, there are steps we can take to ask smarter questions that hopefully don’t illicit the dreaded “rtfm” or “stfw” response.
+It is a key component in being able to formulate your thoughts into words that can be understood by others. Having this key helps you stand out in your environment as you are easy to communicate with. Being a student makes this key component a necessary tool to have. Most of the time you will be communicating through questions. If your questions aren't formulated in the way they should be, you are most likely to run into the wrong answers. This concept can be not only applied in the classroom but even in your studies or work. Be patient and mindful of what exactly it is you want and formulate it in a way that is understandable and answerable. Such a practice will prevent a waste of time or more confusion.
 
 ## What’s a smart question?
 
-Stack Overflow, a question and answer site for programmers, is a great resource for anyone who may have issues with code or who may simply want to learn new or different methods of doing something. There I found examples of good questions and bad questions, which could probably be improved.
+A smart question describes a goal. When your goal has been given, you can then expand upon the steps you have taken to the point you have been blocked. This gives readers or helpers that you are reaching out to, maybe on a platform like StackOverflow, a summary of your issue and what guidance is needed. Having a detailed and precise explanation is critical, without the proper context you are most likely to receive zero answers. You may be thinking of open-ended questions to be a possible question choice but questions like these are rather difficult to answer. This means the best answers will come from more experienced individuals, who are most likely going to be too busy to give an immediate reply or a reply at all.
+
+An example of a smart question I found on Stack Overflow
 
 In the following example, we examine the components of a decent question. In this case, the asker is trying to figure out a way to get the date of the previous month in Python.
 
