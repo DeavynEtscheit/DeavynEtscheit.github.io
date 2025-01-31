@@ -11,7 +11,7 @@ labels:
   - StackOverflow
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/smart-questions/rtfm.png">
+<img class="img-fluid" src="../img/smartQuestion.jpeg">
 
 ## Why Asking the Right Question is Crucial
 
