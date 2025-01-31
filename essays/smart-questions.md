@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Smarter Questions Leads to Better Answers"
+title: "Smarter Questions Lead to Better Answers"
 # All dates must be YYYY-MM-DD format!
 date: 2025-01-30
 published: true
@@ -21,81 +21,34 @@ It is a key component in being able to formulate your thoughts into words that c
 
 A smart question describes a goal. When your goal has been given, you can then expand upon the steps you have taken to the point you have been blocked. This gives readers or helpers that you are reaching out to, maybe on a platform like StackOverflow, a summary of your issue and what guidance is needed. Having a detailed and precise explanation is critical, without the proper context you are most likely to receive zero answers. You may be thinking of open-ended questions to be a possible question choice but questions like these are rather difficult to answer. This means the best answers will come from more experienced individuals, who are most likely going to be too busy to give an immediate reply or a reply at all.
 
-An example of a smart question I found on Stack Overflow
-
-In the following example, we examine the components of a decent question. In this case, the asker is trying to figure out a way to get the date of the previous month in Python.
+Here is an example of a smart question, "How do I delete a Git branch locally and remotely?". This user then provided his failed attempts:
 
 ```
-Q: python date of the previous month
+$ git branch -d remotes/origin/bugfix
+error: branch 'remotes/origin/bugfix' not found.
 
-I am trying to get the date of the previous month with python. Here is what i've tried:
+$ git branch -d origin/bugfix
+error: branch 'origin/bugfix' not found.
 
-str( time.strftime('%Y') ) + str( int(time.strftime('%m'))-1 )
+$ git branch -rd origin/bugfix
+Deleted remote branch origin/bugfix (was 2a14ef7).
 
-However, this way is bad for 2 reasons: First it returns 20122 for the February of 2012 (instead of 201202) 
-and secondly it will return 0 instead of 12 on January.
+$ git push
+Everything up-to-date
 
-I have solved this trouble in bash with:
+$ git pull
+From github.com:gituser/gitproject
 
-echo $(date -d"3 month ago" "+%G%m%d")
-
-I think that if bash has a built-in way for this purpose, then python, much more equipped, should provide something 
-better than forcing writing one's own script to achieve this goal. Of course i could do something like:
-
-if int(time.strftime('%m')) == 1:
-    return '12'
-else:
-    if int(time.strftime('%m')) < 10:
-        return '0'+str(time.strftime('%m')-1)
-    else:
-        return str(time.strftime('%m') -1)
-        
-I have not tested this code and i don't want to use it anyway (unless I can't find any other way:/)
-
-Thanks for your help!
+* [new branch] bugfix -> origin/bugfix
+Already up-to-date.
 ```
+Here is his question attached below his issue, "How do I properly delete the remotes/origin/bugfix branch both locally and remotely?". Notice his header is brief and he provides the problem he is running into. This caused the post to receive +20367 votes and to be viewed 12.4m times. These types of questions spark up the answers and debates. Making it a huge success of a question, as he is most likely to receive the answer he wants and many more other possible answers. Being straightforward and clear comes a long way but is very rewarding. Now compare this question to the not-so-smart question.
 
-While the heading of his question could be better, it does convey what he’s trying to figure out. Usually something as brief as “python date of previous month” is what other users would enter in as search terms on Google, making it easily found. Another good thing about the question is that it’s not just a question. The asker shows what he or she has done and that he or she has put in some effort to answer the question. And while it may not be as important as the question itself, the asker shows courtesy, which does increase the chance of getting an answer.
+An example of a not-so-smart question I found on Stack Overflow is, "How can I answer a question when I can't find any "answer" button? And why can it ever happen?". This question received -25 votes. Not too many people found this question relevant or very important. What I am implying here is the question this user inputted was not formulated. This means the user posted this question without looking into the problem himself, resulting in the post being closed and receiving -25 votes and only 204 views. As his problem was really simple another responded stating that it was a blog post, hence there was no answer button and a reason for not being able to see an answer button on question posts is due to the question post being marked closed. What can be observed is the initial poster did not use his own time to dig into the issue and did not familiarize himself with the Stack Overflow program.
 
-```
-A: datetime and the datetime.timedelta classes are your friend.
+## Key Takeaways
 
-1. find today
-2. use that to find the first day of this month.
-3. use timedelta to backup a single day, to the last day of the previous month.
-4. print the YYYYMM string you're looking for.
+Be patient with yourself before blurting out questions. Take the time to figure out if you are stuck and need help. If you do end up stuck remember to formulate the question in a digestible manner, provide a brief and descriptive context to your issue, and if possible show the code snippet or issue you are facing. Many individuals rush their questions because they want the answer right away, leading them to create confusing questions and receive no replies. Taking time and focus reveals the answer faster than most would think.
 
-Like this:
-
- >>> import datetime
- >>> today = datetime.date.today()
- >>> first = datetime.date(day=1, month=today.month, year=today.year)
- >>> lastMonth = first - datetime.timedelta(days=1)
- >>> print lastMonth.strftime("%Y%m")
- 201202
- >>>
-
-```
- 
-The asker received six possible answers, and he or she was successful in inciting discussion from multiple users. The answers themselves were clear and were devoid of the rumored sarcasm and hostility of “hackers.” Since I myself have referenced this page and found it useful, I can confidently say that it is a good question.
-
-## The foolproof way to get ignored.
-
-While there are decent questions that benefit everyone, there are those one can ask to create an entirely different effect. In the following example, a user asks how he would, in short, create a desktop application with Facebook.
-
-```
-Q: Facebook Desktop Notifier
-
-I am a beginner programmer that have never used anything other than what's included in a language.
-
-I am trying to create a desktop application that notifies me anytime I get an update onfacebook. 
-How should go about doing this? Thanks in advance.
-
-edit Sorry I was not clear. Is there any way to make a DESKTOP application with facebook?
-```
-
-A simple “yes” would have answered the question, but we know that’s not the sort of answer he or she is looking for. Fortunately, someone kindly responded with a link to Facebook’s developer website. The asker should have done more research on his or her potential project. Then further down the road, he or she could have asked more specific and detailed questions that wouldn’t require a thousand-paged response for a sufficient answer.
-
-## Conclusion
-
-When we rely on others’ generosity and expertise to provide answers to our questions, it should hold that the question we ask should be one that leads to efficient and effective help that not only benefits us, but also the people we ask and others who might ask the same question in the future. Thus, if you have a question… make it a smart one! Asking questions may not always get you the best answer, but asking them in a way that will make others want to answer them will increase the success of finding a good solution and make it a positive experience on all sides.
+Link to the smart question: [smart](https://stackoverflow.com/questions/2003505/how-do-i-delete-a-git-branch-locally-and-remotely/2003515#2003515)
+Link to the not-so-smart question: [not-smart](https://meta.stackoverflow.com/questions/429888/how-can-i-answer-a-question-when-i-cant-find-any-answer-button-and-why-can-i)
