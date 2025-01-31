@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Who Am I?"
 # All dates must be YYYY-MM-DD format!
-date: 2025-30-01
+date: 2025-01-30
 published: true
 labels:
   - Learning
