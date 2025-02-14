@@ -10,7 +10,9 @@ labels:
   - VSCode
 ---
 
-<img src="../img/See-what-sticks.jpg" alt="Centered Image">
+<div align="center">
+  <img src="../img/See-what-sticks.jpg">
+</div>
 
 *Difficulty: an idea or thing used as a measure, norm, or model in comparative evaluations.*
 
