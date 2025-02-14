@@ -1,54 +1,25 @@
 ---
 layout: essay
 type: essay
-title: "The difficult things will always be difficult"
+title: "Learning the Standards"
 # All dates must be YYYY-MM-DD format!
-date: 2016-02-06
-published: false
+date: 2025-02-13
+published: True
 labels:
-  - Engineering
+  - ESLint
+  - VSCode
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
+<img src="../img/See-what-sticks.jpg">
 
-*Difficulty: a thing that is hard to accomplish, deal with, or understand.*
+*Difficulty: an idea or thing used as a measure, norm, or model in comparative evaluations.*
 
-One of my friends asked the question earlier last week -- why is it so hard to be an officer for the student branch? Why is so hard compared to working at my on-campus job? This question came after he struggled a little with bookkeeping for the student organization.
+Understanding the key basics or fundamentals in any practice is an important factor. Having such knowledge allows individuals the ability to branch out in the practice they wish to grow in with little to no issues. Algebra for example in Calculus, it's the most basic necessity required. Having a lack of experience with Algebra can cause a lot of issues when trying to understand Calculus.
 
-Now I gave him the standard answer - being an officer of an organization requires that you manage your time between school and work. There isn't anyone telling you what to do. It's the answer any good mentor would give, and is mostly true.
+## Standards in Programming
 
-But the more I though about it, the more I wondered to myself...damn that's a really great question; it's one that deserves some more thought. Most people I think stop at the answer I gave previously - he obviously isn't managing his time properly.
+It was difficult starting with ESLint. Most of the projects that I have done so far only required VSCode and the extensions required for certain assignments. Having to download ESLint and install it taught me invaluable lessons about how important directories are or where you place your files. Powershell was used to check for the installation of ESLint and if your directory led to the wrong path you could not run or use ESLint. It certainly was frustrating as I had to double-check I had ESLint in the right path and had the right version running. In one instance my powershell would be able to read the location of the installed ESLint but my VSCode failed to. It was frustrating but I realize that getting this down would set me up later in my programming journey. The other big learning experience was using GitHub Desktop. I learned how to clone a repository, edit the repo, commit the edits, and push to the origin.
 
-Here's what I think: the difficult things will always be difficult.
+One of the biggest issues was using the Prettier extension. There was a big issue when dealing with double quotes in one of our assignments. There was an issue with the double quotes used in one of the Typescript files, a simple fix was to change the double quotes to single quotes, however, this was not the case. Every time I tried to save the code or click out of the workspace the single quotes would revert to double quotes. Initially, I thought I had made an issue following the steps to set up the repo and its files but it was the extension's fault. It had to deal with a format issue and all I had to do was set the property to false.
 
-## In the context of programming
-
-In the context of programming, this has always been true. The difficult problems have always been different, although changes in technology can change the landscape quite a bit. "Business" type applications are the things that come to mind for me. Those types of applications are usually coupled in some way with people ... and people are awfully hard to deal with!
-
-Consider that one of the most popular content management systems is also considered the most horrible - Wordpress. But really, is there anything that fills that need? If it was so easy in the first place, where is the solution? Where's the magic CMS that is designed well enough that everyone hops on the boat to use it?
-
-Some things are just difficult - building applications that humans use is hard, and will probably be hard for at least the near future.
-
-## In the context of engineering
-
-Ever hear people ragging on engineering companies for delivering late and way over budget? Well, some engineering jobs are really difficult, especially if the requirements and funding are undulating underneath you. Because of the nature of the problem, sometimes engineering firms require large amounts of engineers and workers, inviting further problems and delays.
-
-The Honolulu Rail project at home has become this sort of poster child of failure, budget overrun and overall incompetence in Hawaii. Well, working though regulatory boards and fiscal procedures in Hawaii seems like it's a mind bogglingly difficult job to do. Granted, there might be some fishy stuff going on, but I refuse to believe that everyone is involved for nefarious reasons.
-
-The problem of creating an unprecedented public transportation backbone on an island is difficult! I'm not sure we would have done it right, even if the best people were involved.
-
-## In the context of relationships
-
-So in the end, we realize that all engineering and programming is there for a reason - to serve human needs. Maybe that's why those things are difficult, because they both involve humans and are for humans.
-
-Relationships, regardless if they're romantic or not take work. Humans are fickle creatures and relationships can come and go with the wind. To properly maintain something over time requires work. Family takes work. Marriage takes work. We live to figure out what works and what doesn't and hope that as we move forward we're improving.
-
-Relationships have always been difficult, and by nature will continue to be so.
-
-## Okay!
-
-So back to the original premise; why is being one of the club officers so difficult?
-
-And the final answer - it's supposed to be difficult, and it's supposed to challenge you, just like everything else that humans do that is difficult: programming, engineering, engaging in relationships, pondering the universe, etc.
-
-Ultimately the question you should really ask yourself if something if particularly difficult is then "is it worth it"? That is something that is context specific and only you can answer yourself.
+Reflecting on all that we had done so far with ESLint, VSCode, and GitHub it was a humbling experience but a very valuable one. There are new things to learn every day and getting caught up in the frustration of failure can prevent progress. Having this in mind now when I overcome new material I believe I will do a lot better job.
