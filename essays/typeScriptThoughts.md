@@ -9,9 +9,7 @@ labels:
   - TypeScript
 ---
 
-<div align="center">
-  <img src="../img/See-what-sticks.jpg">
-</div>
+<img src="../img/thinking-cat-douglas-sacha.jpg">
 
 ## Thoughts about TypeScript
 
