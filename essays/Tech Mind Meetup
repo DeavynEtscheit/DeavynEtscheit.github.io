@@ -1,22 +1,22 @@
 ---
 layout: essay
 type: essay
-title: "What to Type?"
+title: "Meeting a Pro"
 # All dates must be YYYY-MM-DD format!
-date: 2025-01-30
+date: 2025-02-15
 published: true
 labels:
-  - TypeScript
+  - Meeting
 ---
 
-<img src="../img/thinking-cat-douglas-sacha.jpg">
+<img src="../img/TechMeetup.jpg">
 
-## Thoughts about TypeScript
+## The Event
 
-I never heard of TypeScript till I took this course and to be honest it proves to be challenging. Getting the concepts down is one thing but the other is figuring out what to type. What I mean by this is the syntax. My thoughts on TypeScript are not positive as the syntax makes it hard to enjoy. It is a superset of JavaScript but when comparing learning curves, TypeScript appears to be a lot steeper in my case. It might be due to the fact I have never dealt with this programming language and we dove straight into it. Though I believe in the next few weeks I will be a lot more confident with the language. I find myself having to look up help for syntaxes while working rather than taking my own time outside of class hours to read up on the language. So, I can't blame TypeScript for anything or give it a rating due to my lack of experience.
+The event took place at UH Manoa at Walter Dods. Jr. Rise Center from 4:30 PM to 6:30 PM. The event started with ice breakers where we got to meet fellow UH students who were also present at the event. I learned from one of the students named Ryan, that there is a program called Leap Start that helps students build experience in the Tech, IT, and Cybersecurity fields. As someone who has no experience I highly value this information and am looking forward to applying to this program soon. After the Icebreakers students were encouraged to share their ideas such as start-ups or invite other students to apply to their ongoing projects. One very interesting project idea was a video game language-learning app. I have seen similar apps where user input their tasks completed and they level up in the game to gain rewards. Bringing this aspect to language learning seems very brilliant and will encourage a lot of people to install this app once created. Other language learning platforms such as Duo Lingo give you a streak but it doesn't seem as challenging as a video game. I am excited to see how this project's final look will play out. After all the ideas were given, we went onto the main course of the event, meeting the pros.
 
-## The WODs or Whats?
+## Inspired and Motivated
 
-The WODs are super helpful. The past ICS courses I have taken never had such a practice and I wish they did. It has helped me get in touch with the concepts of coding. Most of the time the ICS classes you only get a feel of the concepts and syntax through homework which in most cases is only once a week. These WODs keep me in check and I enjoy that feeling. It is a bit stressful but I believe this feeling is only due to how new of a practice it is for me. My typical week only included 1-2 days of programming due to a coding assignment and I felt like an un-athletic programmer. Now that these WODs are in place I feel a lot more capable and I believe it works out well for me. What I do think might cause issues for others if they are taking a lot of other courses. The amount of credits I am taking this semester seems like the appropriate amount to take this course which is 15 and I think any more can cause issues in terms of balancing time.
+One of the pros I met was Sutanto Widjaja. He is currently a Senior Vice President at Farther, a company that helps other companies make the right business decisions. Mr. Widjaja shared his experiences in the field and how he has made it to where he is now. He has a BS in Electrical Engineering and Computer Science from UC Berkeley and a Master of Business Administration from Standford University. What's obvious is he took his education very seriously and that is something for me to look at. Ever since I started college I adopted the mentality that, "C's get degrees". Which is not a healthy mindset at all. From what I see if I can make it count at practice I can make it count out on the field. If I can't do simple tasks how will I do complicated ones? It was an eye-opening conversation I and the other students had with Mr. Widjaja. He gave us not only insights into how his industry works but also certain strategies to look into. An example is when he mentioned why should smaller companies try to invest so much into researching and creating language models when bigger companies like Open AI, Google, and more can do all of it. Saving resources and time ensuring that the path ahead of them is carved up. I noticed that if I want to move in a positive direction in my career I have to be on the top of my game and aware of other aspects aside from just programming. 
 
 *AI was not used in creating this essay*
