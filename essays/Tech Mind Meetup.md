@@ -9,7 +9,9 @@ labels:
   - Meeting
 ---
 
-<img src="../img/TechMeetup.jpg" width="500">
+<div style="text-align: center;">
+  <img src="../img/TechMeetup.jpg" width="500">
+</div>
 
 ## The Event
 
