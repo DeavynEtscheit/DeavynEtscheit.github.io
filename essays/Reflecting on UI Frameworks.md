@@ -11,7 +11,7 @@ labels:
   - Bootstrap
 ---
 
-<img src="../img/zenimaz copy.png">
+<img src="../img/zenimaz copy.png" width="200">
 
 ## Thoughts about Bootstrap
 
