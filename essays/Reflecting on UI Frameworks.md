@@ -12,7 +12,7 @@ labels:
 ---
 
 <div style="text-align: center;">
-  <img src="../img/zenimaz copy.png" width="800">
+  <img src="../img/zenimaz copy.png" width="1000">
 </div>
 
 ## Thoughts about Bootstrap
