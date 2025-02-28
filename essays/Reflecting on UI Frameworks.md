@@ -11,7 +11,9 @@ labels:
   - Bootstrap
 ---
 
-<img src="../img/zenimaz copy.png" width="200">
+<div style="text-align: center;">
+  <img src="zenimaz.png">
+</div>
 
 ## Thoughts about Bootstrap
 
