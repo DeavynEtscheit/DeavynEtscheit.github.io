@@ -12,7 +12,7 @@ labels:
 ---
 
 <div style="text-align: center;">
-  <img src="../img/zenimaz copy.png">
+  <img src="../img/zenimaz copy.png" width="500">
 </div>
 
 ## Thoughts about Bootstrap
@@ -21,6 +21,6 @@ I was familiar with HTML and CSS and did know about UI Frameworks, but having to
 
 ## Changing My Framework
 
-When failing a task or coming short of deadlines, it's obvious there was in issue that prevented a successful finish. In my case, I underestimated how complicated HTML, CSS, and Bootstrap can become. I gave little attention to the details and failed to put effort into the opportunities to practice their use. Now with the knowledge and having experienced using HTML, CSS, and a UI framework, I will give more time and effort so that I may not make the same mistakes again. I now have a lot of respect for those who work on the UI for websites. They had to come up with the design and implement them, which is very impressive and I would like to one day converse with an expert in this type of work.
+When failing a task or coming short of deadlines, it's obvious there was an issue that prevented a successful finish. In my case, I underestimated how complicated HTML, CSS, and Bootstrap can become. I gave little attention to the details and failed to put effort into the opportunities to practice their use. Now with the knowledge and having experienced using HTML, CSS, and a UI framework, I will give more time and effort so that I may not make the same mistakes again. I now have a lot of respect for those who work on the UI for websites. They had to come up with the design and implement them, which is very impressive and I would like to one day converse with an expert in this type of work.
 
 *AI was not used in creating this essay*
