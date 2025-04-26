@@ -11,7 +11,7 @@ labels:
   - Experience
 ---
 
-<img src="../img/0_ayrM33bNKGrPSsJ1.png" width="200px">
+<img src="../img/0_ayrM33bNKGrPSsJ1.png" width="800px">
 
 ## Importance of Desing Patterns and Their Uses
 
