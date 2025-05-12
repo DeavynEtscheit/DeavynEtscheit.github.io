@@ -11,7 +11,7 @@ labels:
 ---
 
 <div style="text-align: center;">
-  <img src="../img/watch.jpg" width="500">
+  <img src="../img/watch.png" width="500">
 </div>
 
 ## Estimations
