@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Project Effort Estimation and Tracking Reflection"
 # All dates must be YYYY-MM-DD format!
-date: 2025-11-05
+date: 2025-05-11
 published: true
 labels:
   - Effort Estimation
